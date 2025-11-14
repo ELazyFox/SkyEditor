@@ -1,0 +1,55 @@
+﻿Please read the following End User License Agreement carefully before you proceed to installation.
+在继续安装前请仔细阅读下面的许可协议。
+
+END USER LICENSE AGREEMENT OF SkyEditor STANDARD EDITION
+SkyEditor标准版最终用户许可协议
+
+The following agreement regarding SkyEditor STANDARD EDITION - referred to as "software" - is made between SkyEditor's author - referred to as "licensor" - and any natural person referred to as "user" who is installing, accessing or in any other way using the software. 
+以下关于SkyEditor标准版（下称“本软件”）的协议在SkyEditor软件作者（下称“许可人”）和任何安装、访问或以其它方式使用本软件的自然人（下称“用户”）之间订立。 
+
+The author and holder of the copyright of the software is Theo(email: myskyeditor@outlook.com).
+本软件的作者及版权持有人为Theo(电子邮件：myskyeditor@outlook.com)。
+
+The software is restricted to be used by natural persons and for non-commercial usage. This means that any natural person may use the software within the People's Republic of China at no charge. Any use of the software by any organization, or any usage of the software by natural person for commercial purposes, will infringe the right of the licensor and its affiliated partners, and may result in civil or criminal prosecution. 
+本软件只限于自然人及非商业用途的使用。这表示任何自然人均可在中华人民共和国境内以非商业用途免费使用本软件。任何组织使用本软件，或任何自然人基于商业用途使用本软件均构成对许可人及其附属合作伙伴的权利侵害，可能导致民事或刑事追究。 
+
+Nobody may distribute separate parts of the package, without written permission. 
+任何人未经书面许可的情况下，不得再分发本软件包的任何单独部分。 
+
+The software may not be distributed inside of any other software package without written permission. The software must remain in the original unmodified installation file for download without any barrier and conditions to the user such as collecting fees for the download or making the download conditional on the user giving his contact data. 
+在未经书面许可的情况下，本软件不得在任何其它软件包中发布。本软件必须保持以未经修改的原始安装文件而供下载，而不得对用户附带任何障碍或条件，例如收取下载费用，或以用户提供联系信息为前提来提供下载。 
+
+The unmodified installation file of the software must be provided pure and unpaired. Any bundling is interdicted. In particular the use of any install or download software which is providing any kind of download bundles is prohibited unless granted in written form. 
+本软件未经修改的安装文件必须以纯净而独立的形式提供。禁止任何形式的捆绑。尤其禁止使用任何安装或下载软件来提供任何下载捆绑，除非获得书面形式同意。 
+
+Hacks/cracks, keys or key generators may not be included, pointed to or referred to by the distributor of the software. 
+本软件的分发者不得包含、指向或引用黑客/破解、注册文件及注册文件生成器。 
+In case of violation of the precedent conditions the allowance lapses immediately and automatically. 
+违反上述条件的情况下，许可自动立即失效。
+
+The software is distributed "as is". No warranty of any kind is expressed or implied. You use at your own risk. Neither the author, the licensor nor the distributor of the licensor will be liable for data loss, damages, loss of profits or any other kind of loss while using or misusing this software. 
+本软件“按原样”发布。不提供任何明示或暗示的担保。您的使用需要自己承担风险。无论作者、许可人或许可人的经销商，均不对使用或误用本软件时发生的数据丢失、损坏、利润损失或其它任何形式的损失而负责。 
+
+No one shall use the software for any illegal purposes, or in violation of any law, regulations or policies of the People's Republic of China. 
+任何人均不得违反中国相关法律、法规及政策的规定使用本软件，或将本软件用于任何违法目的。 
+
+
+The user shall use the software with due respect of intellectual property rights of the rights holder, and shall not modify or remove the copyright marks or other intellectual property right marks in the software. 
+用户在使用本软件过程中应尊重权利人的知识产权，不得修改或去除本软件所附带的版权及其它知识产权标识。 
+
+You may not use, copy, emulate, clone, rent, lease, sell, modify, decompile, disassemble, otherwise reverse engineer the software. The software may be using components developed and/or copyrighted by third parties. Please read README  fils for details. 
+您不得使用、复制、仿真、克隆、租借、出租、出售、修改、反编译、反汇编或反向工程本软件。 
+本软件可能使用了由第三方开发或持有版权的组件。请阅读安装目录中的README文件来了解详情。 
+
+This License Agreement is construed solely and exclusively under laws of the People's Republic of China. 
+本许可协议仅依据中国法律而订立。 
+
+This agreement is made in Chinese and English, both two versions have the same meaning. If any inconsistency exists, the Chinese version shall prevail. 
+本协议采用中英文两种版本，两种版本的含义相同。在中国境内使用的情况下，如果有任何不一致的地方，应以中文版本为准。 
+
+The licensor shall be responsible for interpretation of the agreement. Anytime the licensor made any modifications to the agreement, the modified version shall be applicable to the user automatically. 
+本协议由许可人负责解释。任何时候许可人对本协议做出任何修改，修改版本自动适用于用户。 
+
+Installing and using the software signifies acceptance of these terms and conditions of the license. If you do not agree with the terms of this license, you must remove all software files from your storage devices and cease to use the software.
+安装并使用本软件意味着接受本许可的这些条款和条件。如果您不同意本许可的条款，您必须从您的存储设备中删除本软件全部文件并终止使用本软件。
+
